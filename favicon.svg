@@ -1,1 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="#FFD43B"/><text x="32" y="42" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="26" text-anchor="middle" fill="#14182B">EN</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g transform="translate(0.00 0.00) scale(1.5059) translate(-86 -65)"><rect x="86" y="65" width="340" height="340" rx="66" fill="#12172b"/>
+<g fill="#ffd43b"><path d="M122 160H232V194H160V218H222V250H160V276H232V310H122Z"/><path d="M262 160H298L352 244V160H390V310H356L300 222V310H262Z"/></g></g></svg>

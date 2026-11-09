@@ -26,7 +26,8 @@ header{position:sticky;top:0;z-index:20;background:rgba(251,247,239,.82);backdro
 header.sc{border-color:var(--line)}
 header .w{display:flex;align-items:center;justify-content:space-between;height:68px}
 .logo{font:800 17px/1 Unbounded,sans-serif;text-decoration:none;display:flex;align-items:center;gap:10px}
-.logo b{background:var(--y);border-radius:10px;padding:7px 8px;font-size:14px}
+.logo img{display:block;height:36px;width:auto}
+@media(max-width:560px){.logo img{height:26px}}
 nav{display:flex;gap:26px;font-weight:700;font-size:15px}nav a{text-decoration:none;opacity:.75}nav a:hover{opacity:1}
 header .btn{padding:12px 18px;font-size:15px;border-radius:12px}
 
